@@ -14,7 +14,7 @@ The aim of the project is to implement the turn-based board game "Expedition to 
 🃏 Begininng of the card system  
 🎥 4 Camera positions
 
-![Generated Board](/profile/img/image.png "Generated Board")
+![Generated Board](/profile/img/board_done.png "Generated Board")
 <!--
 
 **Here are some ideas to get you started:**
